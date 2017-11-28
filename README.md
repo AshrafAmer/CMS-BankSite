@@ -14,8 +14,8 @@ Use Wampserver to access this files to your localhost.
 
 ##Resources
 
-![](public/images/PHP1.png)
-![](public/images/PHP1.png)
+![](public/images/PHP1.PNG)
+![](public/images/PHP1.PNG)
 
 
 ## Author
