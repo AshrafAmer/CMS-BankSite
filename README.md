@@ -12,7 +12,7 @@ To run this Site on your Localhost You must have:
 ## Usage
 Use Wampserver to access this files to your localhost.
 
-##Resources
+## Resources
 
 ![](public/images/PHP1.PNG)
 ![](public/images/PHP1.PNG)
